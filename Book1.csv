@@ -1,0 +1,10 @@
+RollNo,AdminNo,StudentName,DOB,Session,FatherName,CGPA,Address,ContactNo,Email,CourseID,HSA,NSA
+21BIT001,18141,Sri Subash C R,16-07-2004,2021-2025,Chandrasekar S,8.56,Nagercoil,9791738135,srisubashcr@gmail.com,1,Yes,No
+21BIT002,17810,Harihararaj A,22-06-2004,2021-2025,Alaguraj ,8.372,Madurai,9639825494,harihararaja@gmail.com,1,No,No
+21BIT003,17960,DhananJayan,31-06-2004,2021-2025,Selvam,8.77,Virudhunagar,8474268507,dhananjayans@gmail.com,2,Yes,Yes
+21BIT004,17811,Hemanthraj,11-08-2003,2021-2026,Prakash,8.77,Madurai,9634839926,hemanthrajnp@gmail.com,4,Yes,No
+21BIT043,17802,Pranav Siddharth,04-04-2004,2021-2025,Saravanan,7.8,Madurai,9787302492,pranavsiddharth@gmail.com,3,No,No
+21BIT005,17911,Arun Pandian,06-05-2003,2021-2025,Rajesh,9.1,Sivakasi,9876543210,arunpandian@gmail.com,2,Yes,No
+21BIT006,16324,Satish Kumar,03-08-2003,2021-2025,Dharmalingam,7.4,Virudhunagar,9321654870,satishkumar@gmail.com,3,No,No
+21BIT007,15478,Raj karna,21-05-2004,2021-2025,Guru,6.9,Tirunelveli,9654871203,karnaraj@gmail.com,4,Yes,Yes
+21BIT008,18998,Kishorre,02-06-2004,2021-2025,Manikandan,6.8,Salem,9784650213,kishoree@gmail.com,2,Yes,No
